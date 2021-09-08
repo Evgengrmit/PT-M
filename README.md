@@ -1,2 +1,10 @@
 # Programming technologies and methods
-
+1) [Лабораторная работа 1](https://gist.github.com/Evgengrmit/c9702f7d47f1b8d15ffe2011aa7da8ce)
+2) [Лабораторная работа 2](https://gist.github.com/Evgengrmit/b89390aa6c0ec634c76b0069f06c5d8c)
+3) [Лабораторная работа 3](https://gist.github.com/Evgengrmit/b5893034509657cde36fc4932a0e5cde)
+4) [Лабораторная работа 4](https://gist.github.com/Evgengrmit/388a785e0366fd32be766487dcb623fa)
+5) [Лабораторная работа 5](https://gist.github.com/Evgengrmit/eb8319b780e3c64d01ad275d70705ed7)
+6) [Лабораторная работа 6](https://gist.github.com/Evgengrmit/a335347a77a0479e2d2180e991e5ba85)
+7) [Лабораторная работа 7](https://gist.github.com/Evgengrmit/e1b0e1c8faedc99f3612571509bc17a2)
+8) [Лабораторная работа 8](https://gist.github.com/Evgengrmit/6a5ef4cdbae3d9074597b8806010350b)
+9) [Лабораторная работа 9](https://gist.github.com/Evgengrmit/c764510c96856b106c56b9e840bf705f)
