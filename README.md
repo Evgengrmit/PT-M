@@ -1,2 +1,2 @@
-# PT-M
-Технологии и методы программирования, 1 курс 2 семестр
+# Programming technologies and methods
+
